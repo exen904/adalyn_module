@@ -65,6 +65,11 @@ combo_##NAME { \
             key-positions = <16 17 18>;
             bindings = <&kp DE_UNDER>;
        };
+        combo_worddelete {
+            timeout-ms = <50>;
+            key-positions = <18 19>;
+            bindings = <&kp LCTRL(BSPC)>;
+       };
 
     };
 
