@@ -70,7 +70,11 @@ combo_##NAME { \
             key-positions = <18 19>;
             bindings = <&kp LCTRL(BSPC)>;
        };
-
+        combo_questionmark {
+            timeout-ms = <50>;
+            key-positions = <28 29>;
+            bindings = <&kp DE_QMARK″>;
+       };
     };
 
     behaviors {
