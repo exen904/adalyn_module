@@ -38,12 +38,12 @@ combo_##NAME { \
        combo_singlequote {
             timeout-ms = <50>;
             key-positions = <7 8>;
-            bindings = <&kp SINGLE_QUOTE>;
+            bindings = <&kp DE_SQT>;
        };
        combo_doublequote {
             timeout-ms = <50>;
             key-positions = <8 9>;
-            bindings = <&kp DOUBLE_QUOTES>;
+            bindings = <&kp DE_DQT>;
        };
        combo_minus {
             timeout-ms = <50>;
