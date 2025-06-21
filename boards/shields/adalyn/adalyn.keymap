@@ -2,6 +2,10 @@
 #include <dt-bindings/zmk/keys.h>
 #include <locale/keys_de.h>
 
+#define BASE 0
+#define NUM  1
+#define NAV  2
+
 #define COMBO(NAME, BINDINGS, KEYPOS, LAYERS) \
 combo_##NAME { \
     timeout-ms = <20>; \
