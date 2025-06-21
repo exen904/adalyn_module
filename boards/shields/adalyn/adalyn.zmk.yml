@@ -3,6 +3,6 @@ id: adalyn
 name: Adalyn
 type: shield
 url: https://github.com/MarvFPV/adalyn
-requires: [rp2040_zero]
+requires: [sparkfun_pro_micro_rp2040]
 features:
   - keys
