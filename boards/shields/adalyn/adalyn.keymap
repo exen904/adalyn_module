@@ -36,12 +36,12 @@ combo_##NAME { \
             bindings = <&caps_word>;
        };
        combo_singlequote {
-            timeout-ms = <50>;
+            timeout-ms = <75>;
             key-positions = <7 8>;
             bindings = <&kp DE_SQT>;
        };
        combo_doublequote {
-            timeout-ms = <50>;
+            timeout-ms = <75>;
             key-positions = <8 9>;
             bindings = <&kp DE_DQT>;
        };
@@ -73,7 +73,7 @@ combo_##NAME { \
         combo_questionmark {
             timeout-ms = <50>;
             key-positions = <28 29>;
-            bindings = <&kp DE_QMARK″>;
+            bindings = <&kp DE_QMARK>;
        };
     };
 
