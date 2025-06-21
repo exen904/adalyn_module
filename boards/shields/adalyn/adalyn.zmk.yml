@@ -1,0 +1,8 @@
+file_format: "1"
+id: adalyn
+name: Adalyn
+type: shield
+url: https://github.com/MarvFPV/adalyn
+requires: [rp2040_zero]
+features:
+  - keys
