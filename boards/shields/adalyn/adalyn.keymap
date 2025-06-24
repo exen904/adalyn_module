@@ -68,7 +68,7 @@ combo_##NAME { \
         combo_worddelete {
             timeout-ms = <50>;
             key-positions = <18 19>;
-            bindings = <&kp LCTRL(BSPC)>;
+            bindings = <&kp LC(BSPC)>;
        };
         combo_questionmark {
             timeout-ms = <50>;
