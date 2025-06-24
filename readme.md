@@ -1,0 +1,1 @@
+ZMK configuration for my RP2040 handwire of the Adalyn keyboard, based on the PCB schematics from [MarvFPV](https://github.com/MarvFPV/Adalyn).
